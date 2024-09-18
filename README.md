@@ -12,8 +12,8 @@ This project is a simple web application for managing games using CRUD (Create, 
 - **ASP.NET MVC Core**
 - **Entity Framework Core**
 - **SQL Server**
-- **jQuery**
 - **HTML/CSS/JavaScript**
+- **jQuery**
 - **Ajax Request**
   
 # Getting Started
