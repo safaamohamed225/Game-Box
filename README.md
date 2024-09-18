@@ -9,14 +9,14 @@ This project is a simple web application for managing games using CRUD (Create, 
 - **Real-time updates using AJAX and jQuery.
 
 ## Technologies Used
-- **ASP.NET MVC Core
-- **Entity Framework Core
-- **SQL Server
-- **jQuery
-- **HTML/CSS/JavaScript
-- **Ajax Request
-- **Web API
-- 
+- **ASP.NET MVC Core**
+- **Entity Framework Core**
+- **SQL Server**
+- **jQuery**
+- **HTML/CSS/JavaScript**
+- **Ajax Request**
+- **Web API**
+  
 # Getting Started
 ## Prerequisites
 To run this project, you will need:
