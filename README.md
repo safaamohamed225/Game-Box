@@ -4,8 +4,7 @@ This project is a simple web application for managing games using CRUD (Create, 
 
 ## Features
 - **Add, view, update, and delete games.**
-- **API endpoints for managing games programmatically.**
-- **Search and filter functionality for games.**
+- **MVC endpoints for managing games programmatically.**
 - **Real-time updates using AJAX and jQuery.**
 
 ## Technologies Used
