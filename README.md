@@ -15,7 +15,6 @@ This project is a simple web application for managing games using CRUD (Create, 
 - **jQuery**
 - **HTML/CSS/JavaScript**
 - **Ajax Request**
-- **Web API**
   
 # Getting Started
 ## Prerequisites
