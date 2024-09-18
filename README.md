@@ -40,6 +40,6 @@ To run this project, you will need:
 
 - **.NET SDK 6.0+**
 - **SQL Server**
+- **Entity Framework Core**
 - **Visual Studio 2022 or VS Code**
 - **Browser (Chrome, Edge, etc.)**
-- **Entity Framework Core**
