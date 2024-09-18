@@ -9,8 +9,8 @@ The frontend is built using **HTML**, **CSS**, **jQuery**, and **JavaScript** to
 This project is a simple web application for managing games using CRUD (Create, Read, Update, Delete) operations. It is built using the MVC (Model-View-Controller) architecture with ASP.NET Core, Entity Framework for database management, and a SQL Server backend. The frontend includes jQuery, HTML, CSS, and JavaScript for dynamic user interactions. It also exposes a Web API for interacting with the game data.
 
 ## Features
-- **Add new games to the database**
 - **MVC endpoints for managing games programmatically.**
+- **Add new games to the database**
 - **View the list of games**
 - **Edit game details**
 - **Delete games from the database**
